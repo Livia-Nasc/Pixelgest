@@ -23,3 +23,7 @@ O site inclui:
 • CSS: Estilos para formatação e layout.
 • Bootstrap: Framework CSS para garantir a responsividade.
 • JavaScript: Funcionalidades interativas como o painel de acordeão.
+
+# Contato
+• Email: pixelgest@gmail.com
+• Endereço: R. Júlio Siqueira, 390 - Dionísio Torres, Fortaleza - CE, 60120-320
