@@ -25,5 +25,5 @@ O site inclui:
 • JavaScript: Funcionalidades interativas como o painel de acordeão.
 
 # Contato
-• Email: pixelgest@gmail.com
-• Endereço: R. Júlio Siqueira, 390 - Dionísio Torres, Fortaleza - CE, 60120-320
+<p>• Email: pixelgest@gmail.com</p>
+<p>• Endereço: R. Júlio Siqueira, 390 - Dionísio Torres, Fortaleza - CE, 60120-320</p>
